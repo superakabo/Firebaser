@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939856839741",
+    "firebase_url": "https://fir-r-7284f.firebaseio.com",
+    "project_id": "fir-r-7284f",
+    "storage_bucket": "fir-r-7284f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939856839741:android:91cbf4cc60924780115654",
+        "android_client_info": {
+          "package_name": "com.akabo.firebaser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939856839741-5rg25crbe6bdpppbtp6d4h6cfe2ph9mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEMoAGVBeVmKerziT4XbNNu1soVA9etI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939856839741-5rg25crbe6bdpppbtp6d4h6cfe2ph9mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
